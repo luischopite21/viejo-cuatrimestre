@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1588717000 source:c:\users\tamura\desktop\tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"luis.h"
+
+1588716973 c:\users\tamura\desktop\tp1\luis.h
+
+1588716972 source:c:\users\tamura\desktop\tp1\luis.c
+
